@@ -1,4 +1,4 @@
-![Header](https://github.com/KonstantinOkhlynin/RegExp/blob/main/image/readmegithubregexp.gif)
+[![Header](https://github.com/KonstantinOkhlynin/RegExp/blob/master/Image/readmegithubregexp.gif)](https://konstantinokhlynin.github.io/RegExp/)
 
 # [Войти в RegExp](https://konstantin-okhlynin.github.io/RegExp/)
 ***
