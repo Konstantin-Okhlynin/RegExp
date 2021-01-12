@@ -6,7 +6,7 @@
    [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/2.svg)](https://konstantinokhlynin.github.io/RegExp/)
 # RegExp 
 
-### Форма для проверки регудярных выражений написанных мной.Также присутствует небольшая валидация css.
+### Форма для проверки регудярных выражений написанных мной. Также присутствует небольшая валидация css.
 
 ## Имя
 - Только кириллица

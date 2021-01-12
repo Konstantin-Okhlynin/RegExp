@@ -4,7 +4,7 @@
    [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/22.svg)](https://konstantinokhlynin.github.io/RegExp/)
 # RegExp
 
-### Form for checking regular expressions written by me.There is also a small css validation.
+### Form for checking regular expressions written by me. There is also a small css validation.
 
 ## Name
 - Only Cyrillic
